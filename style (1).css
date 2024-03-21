@@ -1,0 +1,25 @@
+.header{
+    background-color: black;
+    color: white;
+    font-size: 4em;;
+    }
+
+.center_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left_column {
+    background-color: gray;
+    width: 25vw;
+    height: 30vh;
+}
+
+.right_column{
+    width: 75vw;
+    height: 30vh;
+}
+.footer{
+    background-color: black;
+    color: wheat;
+}
